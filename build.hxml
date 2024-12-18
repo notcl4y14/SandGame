@@ -1,0 +1,13 @@
+# Defines
+-D analyzer-optimize
+
+# Libraries
+-L heaps
+-L hlsdl
+
+# Main
+--class-path source
+--main Main
+
+# Target
+--hl out/SandGame.hl
